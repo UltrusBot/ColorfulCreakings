@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "colorfulcreakings:block/pink_resin_bricks"
+  }
+}

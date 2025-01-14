@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "colorfulcreakings:white_resin_brick_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_white_resin_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "colorfulcreakings:white_resin_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_white_resin_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "colorfulcreakings:white_resin_brick_stairs"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": "colorfulcreakings:magenta_resin_clump",
+  "result": {
+    "id": "colorfulcreakings:magenta_resin_brick"
+  }
+}

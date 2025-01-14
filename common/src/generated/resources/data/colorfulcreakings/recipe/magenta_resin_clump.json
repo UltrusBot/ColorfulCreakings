@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "colorfulcreakings:magenta_resin_block"
+  ],
+  "result": {
+    "count": 9,
+    "id": "colorfulcreakings:magenta_resin_clump"
+  }
+}

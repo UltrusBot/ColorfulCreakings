@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "dyed_resin",
+  "key": {
+    "#": "#colorfulcreakings:resin_clumps",
+    "X": "#c:dyes/green"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "colorfulcreakings:green_resin_clump"
+  }
+}

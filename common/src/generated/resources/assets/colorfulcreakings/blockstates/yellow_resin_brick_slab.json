@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "colorfulcreakings:block/yellow_resin_brick_slab"
+    },
+    "type=double": {
+      "model": "colorfulcreakings:block/yellow_resin_bricks"
+    },
+    "type=top": {
+      "model": "colorfulcreakings:block/yellow_resin_brick_slab_top"
+    }
+  }
+}

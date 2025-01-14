@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "colorfulcreakings:block/cyan_resin_bricks",
+    "side": "colorfulcreakings:block/cyan_resin_bricks",
+    "top": "colorfulcreakings:block/cyan_resin_bricks"
+  }
+}

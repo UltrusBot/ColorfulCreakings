@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.ultrusmods.colorfulcreakings.mixin",
+  "refmap": "${mod_id}.refmap.json",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CreakingHeartBlockEntityMixin",
+    "CreakingMixin"
+  ],
+  "client": [
+    "client.CreakingRendererMixin",
+    "client.CreakingRenderStateMixin"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+

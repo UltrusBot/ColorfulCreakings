@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "colorfulcreakings:block/magenta_resin_bricks",
+    "side": "colorfulcreakings:block/magenta_resin_bricks",
+    "top": "colorfulcreakings:block/magenta_resin_bricks"
+  }
+}

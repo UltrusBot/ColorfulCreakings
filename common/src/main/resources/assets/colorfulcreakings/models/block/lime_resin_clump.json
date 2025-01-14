@@ -1,0 +1,6 @@
+{
+  "parent": "colorfulcreakings:block/resin_clump",
+  "textures": {
+    "clump": "colorfulcreakings:block/lime_resin_clump"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "dyed_resin_brick",
+  "key": {
+    "#": "#colorfulcreakings:resin_bricks",
+    "X": "#c:dyes/lime"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "colorfulcreakings:lime_resin_brick"
+  }
+}

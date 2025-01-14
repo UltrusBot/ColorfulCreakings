@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "colorfulcreakings:block/gray_resin_bricks",
+    "side": "colorfulcreakings:block/gray_resin_bricks",
+    "top": "colorfulcreakings:block/gray_resin_bricks"
+  }
+}

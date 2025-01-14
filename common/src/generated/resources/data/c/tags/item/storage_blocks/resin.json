@@ -1,0 +1,20 @@
+{
+  "values": [
+    "colorfulcreakings:white_resin_block",
+    "colorfulcreakings:light_gray_resin_block",
+    "colorfulcreakings:gray_resin_block",
+    "colorfulcreakings:black_resin_block",
+    "colorfulcreakings:brown_resin_block",
+    "colorfulcreakings:red_resin_block",
+    "minecraft:resin_block",
+    "colorfulcreakings:yellow_resin_block",
+    "colorfulcreakings:lime_resin_block",
+    "colorfulcreakings:green_resin_block",
+    "colorfulcreakings:cyan_resin_block",
+    "colorfulcreakings:light_blue_resin_block",
+    "colorfulcreakings:blue_resin_block",
+    "colorfulcreakings:purple_resin_block",
+    "colorfulcreakings:magenta_resin_block",
+    "colorfulcreakings:pink_resin_block"
+  ]
+}

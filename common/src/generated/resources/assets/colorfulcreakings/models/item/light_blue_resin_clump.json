@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "colorfulcreakings:item/light_blue_resin_clump"
+  }
+}

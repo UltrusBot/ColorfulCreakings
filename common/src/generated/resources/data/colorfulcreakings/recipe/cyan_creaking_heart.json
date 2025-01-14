@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": "minecraft:pale_oak_log",
+    "R": "colorfulcreakings:cyan_resin_block"
+  },
+  "pattern": [
+    " L ",
+    " R ",
+    " L "
+  ],
+  "result": {
+    "count": 1,
+    "id": "colorfulcreakings:cyan_creaking_heart"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "colorfulcreakings:block/light_blue_resin_bricks",
+    "side": "colorfulcreakings:block/light_blue_resin_bricks",
+    "top": "colorfulcreakings:block/light_blue_resin_bricks"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "dyed_resin_brick",
+  "key": {
+    "#": "#colorfulcreakings:resin_bricks",
+    "X": "#c:dyes/magenta"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "colorfulcreakings:magenta_resin_brick"
+  }
+}

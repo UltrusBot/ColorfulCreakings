@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "colorfulcreakings:block/brown_chiseled_resin_bricks"
+  }
+}

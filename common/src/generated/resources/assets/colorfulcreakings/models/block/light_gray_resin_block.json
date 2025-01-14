@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "colorfulcreakings:block/light_gray_resin_block"
+  }
+}

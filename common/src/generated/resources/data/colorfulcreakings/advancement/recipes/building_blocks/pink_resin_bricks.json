@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_pink_resin_brick": {
+      "conditions": {
+        "items": [
+          {
+            "items": "colorfulcreakings:pink_resin_brick"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "colorfulcreakings:pink_resin_bricks"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_pink_resin_brick"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "colorfulcreakings:pink_resin_bricks"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lime_resin_clump": {
+      "conditions": {
+        "items": [
+          {
+            "items": "colorfulcreakings:lime_resin_clump"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:lime_resin_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_lime_resin_clump"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:lime_resin_block"
+    ]
+  }
+}

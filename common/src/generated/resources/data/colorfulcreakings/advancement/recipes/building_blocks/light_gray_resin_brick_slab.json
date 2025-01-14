@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_light_gray_resin_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": "colorfulcreakings:light_gray_resin_bricks"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "colorfulcreakings:light_gray_resin_brick_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_light_gray_resin_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "colorfulcreakings:light_gray_resin_brick_slab"
+    ]
+  }
+}
